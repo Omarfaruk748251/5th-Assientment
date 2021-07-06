@@ -51,6 +51,23 @@ body{
         margin: auto;
         display: block;
     }
+    .box-two{
+        display: flex;
+        width: 83.2%;
+        margin-left: 90%;
+        margin-right: 90%;
+        padding-left: 5% ; 
+        padding-right: 10%;
+        border-radius: 5px;
+        box-shadow:10px 10px 40px rgb(120, 130, 130);
+        text-align: center;
+        margin: 1%;
+    }
+    .padding-add{
+        
+        padding-left: 6.5% ; 
+        padding-right: 2%; 
+    }
     .finising{
         background-color: black;
         color: white;
