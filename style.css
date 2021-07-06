@@ -26,3 +26,9 @@ body{
         color: white;
         front-weight: 5px;
     }
+    .middle-big{
+        background-image: url(images/shapes/Frame\ 56.jpg);
+        background-repeat: no-repeat;
+        background-position: right;
+        background-size:cover;
+    }
