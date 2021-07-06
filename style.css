@@ -32,3 +32,6 @@ body{
         background-position: right;
         background-size:cover;
     }
+    .center{
+        text-align: center;
+    }
